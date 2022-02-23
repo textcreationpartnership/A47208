@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A testimony against gaming, musick, dancing, singing, swearing and peoples calling upon God to damn them. Commended to the consciences of all people in the sight of God, but more especially to those who keep publick houses.</title>
+            <author>Kelsall, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47208</idno>
+            <idno type="STC">Wing K246B</idno>
+            <idno type="STC">ESTC R218588</idno>
+            <idno type="EEBO-CITATION">99830166</idno>
+            <idno type="PROQUEST">99830166</idno>
+            <idno type="VID">34616</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47208)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34616)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2033:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A testimony against gaming, musick, dancing, singing, swearing and peoples calling upon God to damn them. Commended to the consciences of all people in the sight of God, but more especially to those who keep publick houses.</title>
+                  <author>Kelsall, John.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>re-printed with additions, by John Bringhurst,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1682?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: John Kelsall.</note>
+                  <note>Publication date conjectured by Wing.</note>
+                  <note>Print faded, with some loss of text.</note>
+                  <note>Reproduction of the original in the Friends House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conduct of life --  Early works to 1800.</term>
+               <term>Dance --  Controversial literature --  Early works to 1800.</term>
+               <term>Gambling --  Controversial literature --  Early works to 1800.</term>
+               <term>Singing --  Controversial literature --  Early works to 1800.</term>
+               <term>Swearing --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:34616:1" rendition="simple:additions"/>
+            <head>A Teſtimony againſt Gaming, Muſick, Dancing, Singing, Swearing, and Peoples calling upon GOD to DAMN them. <hi>Commended to the Conſciences of all People in the ſight of God, but more eſpecially to thoſe who keep publick Houſes.</hi>
+            </head>
+            <p>
+               <note place="margin">
+                  <hi>Dr. Ames, de Conſc. lib. 4. c. 23. § 5. ſaith,</hi> Plays which depend meer<g ref="char:EOLhyphen"/>ly or princi<g ref="char:EOLhyphen"/>pally of For<g ref="char:EOLhyphen"/>tune, are of their own na<g ref="char:EOLhyphen"/>ture <g ref="char:V">Ʋ</g>nlaw<g ref="char:EOLhyphen"/>ful.</note>
+               <hi>Firſt,</hi> SEE that you ſuffer none to play at any ſort of Game in your Houſes, <hi>viz. <hi>Cards, Dice, Tables, Shuffle-board,</hi>
+               </hi> and the like, for in ſo doing you will diſpleaſe the Lord, and may cauſe him to bring a blaſt upon all your Undertakings: But on the contrary, reprove and admoniſh ſuch in Gods fear; For it never was the Practice of Gods People in the Primitive times to game away their precious time, which the Lord gave them to <hi>work out their own Salvation in</hi>; neither is it the practice of them that are <hi>Chriſtians</hi> in deed in this day, though the <hi>Nominal Chriſtians</hi> may plead for it.</p>
+            <p>Therefore you that know the <hi>Life of true Chriſtianity,</hi> bear your Teſtimo<g ref="char:EOLhyphen"/>nies faithfully againſt <hi>Gaming,</hi> for it is as it were a piece of <hi>Witchcraft</hi>; for when Mens hearts and minds are exerciſed in it, they are even overcome by the ſame, and ſo are ſerving the Enemy of their own immortal Souls with all their ſtrength, and the fear of the Lord is not before their Eyes; for when their hearts and minds are exerciſed in their <hi>Games,</hi> it is as it were their <hi>God,</hi> and often-times tends to <hi>Quarrelling, Fighting</hi> and <hi>Bloodſhed.</hi> It is therefore good for all that are <hi>Chriſtians</hi> in deed and in truth, to bear your Teſtimonies againſt <hi>Gaming</hi>; for this is certainly true, that the Lord and his truth is diſho<g ref="char:EOLhyphen"/>noured by admitting People to Game in your Houſes: Therefore be care<g ref="char:EOLhyphen"/>ful in bringing <hi>Honour</hi> to <hi>God</hi> by bearing your Teſtimonies for him and his Truth, againſt that that is diſpleaſing unto the Lord, and hurtful unto your own poor Souls.</p>
+            <p>
+               <note place="margin">
+                  <hi>P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ov. 14.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>3.</hi> Even in Laughter the Heart is made ſor<g ref="char:EOLhyphen"/>rowful: and <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and of <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Mirth <gap reason="illegible" resp="#UOM" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap>.</note>
+               <hi>Secondly,</hi> See that you ſuffer none to play upon any ſort of <hi>Muſick,</hi> nor any to <hi>Dance, Sing</hi> or <hi>Swear</hi> in your Houſes; but bear your Teſtimonies againſt ſuch things, both by reproving them in Gods fear and love, and in obſtructing the ſame; for they are all diſpleaſing in the ſight of the Lord, and may cauſe his Judgments to come upon your Houſes and Families. Therefore to prevent the ſame from coming upon you, live up to that gift which the Lord hath given you, that you may ſtand in your places, and bear a Teſtimony for the Lord and his Truth in your Day, Age and Generation; then will the Lord bleſs and proſper you,<note place="margin">
+                  <hi>Eccleſ. 7.4.</hi> The heart of the Wiſe, is in the houſe of Mourning; but the heart of Fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ls is in the houſe of Mirth.</note> both inwardly and outwardly, and in all that you undertake; and all that do rejoyce, <hi>let them Rejoyce in the Lord.</hi>
+            </p>
+            <p>
+               <hi>Muſick</hi> is a thing that ſtealeth the hearts of them that play upon it, or ad<g ref="char:EOLhyphen"/>here unto it, from the Lord (&amp; tends to raiſe up a <hi>light, airy, frothy, wanton Mind</hi>; for they that <hi>live in Pleaſures, are dead while they live;</hi> and they that <hi>live wantonly, kill the juſt</hi>) for when Mens hearts and minds are exerciſed by it, they remem<g ref="char:EOLhyphen"/>ber not the Lord that made them and all Mankind, <hi>for a purpoſe of his own Glory</hi>; but ſpend away their precious time in that which the Lord by his Pro<g ref="char:EOLhyphen"/>phet <hi>Amos</hi> bore Teſtimony againſt, as you may read in the 6th Chap. of the Prophecy of that Prophet; in which he pronounceth a <hi>Wo <hi>unto them that chaunt unto the</hi> Viol, <hi>and invent unto themſelves</hi> Inſtruments of Muſick, <hi>like un<g ref="char:EOLhyphen"/>to</hi>
+               </hi> David. Do ſuch <hi>Remember their Creator in the days of their Youth?</hi> No; they have rather forgotten their Maker, which would be their <hi>Saviour,</hi> if they would come to be ſaved by him, from their <hi>periſhing fading Vanities,</hi> which God and his People are againſt.</p>
+            <p>
+               <hi>Singing</hi> and <hi>Dancing</hi> are of the ſame Root &amp; Ground with <hi>Gaming</hi> &amp; <hi>Muſick,</hi>
+               <note place="margin">
+                  <p>
+                     <hi>Iſa. 24.9.</hi> They ſhall not drink Wine with a Song; ſtrong drink ſhall be bitter to them that drink it.</p>
+                  <p>
+                     <hi>Amos 8.10.</hi> And I will turn your Feaſts into Mourn<g ref="char:EOLhyphen"/>ing, and all your Songs into Lamen<g ref="char:EOLhyphen"/>tation.</p>
+               </note> &amp;c. all which proceed from that ſeed which the Enemy of Man and Womans Salvation hath ſown in the hearts of the <hi>Children of Diſobedience,</hi> which Enemy is the <hi>Devil,</hi> who <hi>walks about, ſeeking whom he may devour.</hi> &amp; ſuch who let looſe their hearts, minds and affections after thoſe things, purſuing and following with greedineſs after the ſame, are making an <hi>Idol</hi> of them, and do deſire more after them than they do after the knowledge of God, <hi>whom to know is Life Eternal</hi>; and ſo hereby God, who alone ought to be ſought after and bowed down unto, is robbed of that which is his right, even the <hi>Praiſe,</hi> the <hi>Honour</hi> and the <hi>Glory of his Name,</hi> which ought to be given unto him from every reaſonable Creature that he hath made by his mighty Power; for it is the incumbent duty of all Mankind to ſerve the Lord above all things, even with all their Souls and all their Might, and not run into <hi>fading Vanities,</hi> which periſh in the uſing, and which bring <hi>Tribulation, Anguiſh</hi> and <hi>Wrath</hi> up<g ref="char:EOLhyphen"/>on all that are found in them; <hi>for God will not be mocked; ſuch as every Man ſows, ſuch they muſt reap from divine Juſtice, who renders unto every Man according unto his deeds, without reſpect of Perſons.</hi>
+            </p>
+            <p>Some that delight in Muſick may object, <hi>That</hi> David <hi>and others of the Peo<g ref="char:EOLhyphen"/>ple of God, did play upon Inſtruments of <hi>Muſick.</hi>
+               </hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Job 21.13.</hi> They spend their days in Wealth, and in a moment go down to the Grave.</note>
+               <hi>Anſw. David</hi> and others who were faithful to God, did not play upon <hi>Inſtruments of Muſick</hi> to ſtir up, raiſe &amp; elivate a <hi>vain, ſinful, unclean Mind</hi> in them<g ref="char:EOLhyphen"/>ſelves or any others; but their playing upon and uſe of <hi>Inſtruments of Muſick</hi> being under the Shadowy diſpenſation of the Law, what they did herein, they did it unto the Lord, The Prieſts under the Law had a command to <hi>ſound Trumpets,</hi> which was a ſort of <hi>Muſick;</hi> and <hi>David</hi> and others made uſe of other Inſtruments, as the <hi>Flute, Harp</hi> &amp; <hi>Cymbal</hi>; &amp; this they did in honour and praiſe to the Lord, and not to ſtir up a <hi>vain, wanton, Light, airy, fleſhly</hi> and <hi>ungodly Mind,</hi> as it may be ſeen in the Scriptures of Truth.</p>
+            <p>Again, ſome may plead for <hi>Dancing, <hi>becauſe</hi>
+               </hi> David <hi>danced before the Ark.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This <hi>Dancing</hi> was in the time of the <hi>Law,</hi> and was a token of his re<g ref="char:EOLhyphen"/>joycing, becauſe of the <hi>Ark of God,</hi> which was brought back out of the <hi>Philiſt<g ref="char:EOLhyphen"/>ines</hi> Land, who were Enemies to God and his People: This <hi>Dancing</hi> was not like the <hi>Dancing</hi> of the <hi>vain, wanton</hi> and <hi>prophane Perſons</hi> of our Age, nor yet like the <hi>Dancing</hi> of <hi>Herodias</hi>'s Daughter, who danced before King <hi>Herod,</hi> who after ſhe had danced, demanded the Head of the Man of God, <hi>John the Bap<g ref="char:EOLhyphen"/>tiſt,</hi> and had it, being thereunto inſtructed by her malicious Mother.</p>
+            <p>As concerning <hi>Singing</hi> and <hi>Rejoycing</hi>; true <hi>Singing</hi> &amp; in <hi>Rejoycing</hi> the Lord God did own under the Law, which was Shadowy, &amp; ſtood in many carnal Or<g ref="char:EOLhyphen"/>dinances, which were to continue <hi>until the time of Reformation,</hi> as ſaith the A<g ref="char:EOLhyphen"/>poſtle, <hi>Heb.</hi> 9.10. which time is the Time of the Goſpel, which is come.</p>
+            <p>Again, God did and doth own <hi>Singing</hi> in the <hi>Spirit</hi> under the diſpen<g ref="char:EOLhyphen"/>ſation of the Goſpel; but the <hi>Singers</hi> that God doth own under the Goſ<g ref="char:EOLhyphen"/>pel diſpenſation, are thoſe who are firſt taught by him to mourn for, repent of, and forſake their Sins; ſuch who are led by the Spirit of the Lord to mourn for, repent of, and forſake their Sins, in the ſame Spirit they may <hi>Sing,</hi> as it moves and leads them. The Apoſtle <hi>Paul</hi> ſaid, <hi>I will <hi>Sing</hi> with the <hi>Spirit,</hi> and with <hi>Vnderſtanding,</hi>
+               </hi> 1 <hi>Cor.</hi> 14.15. And it is written, <hi>Iſa.</hi> 35.10. <hi>The <hi>Redeemed</hi> of the Lord ſhall return to</hi> Sion <hi>with <hi>Songs</hi> of <hi>Deliverance.</hi>
+               </hi> And it is written, <hi>Rev.</hi> 15.3. <hi>They that were <hi>Redeemed</hi> from the Earth, ſang the <hi>Song</hi> of</hi> Moſes <hi>and the</hi> Lamb. And Wiſe <hi>Solomon</hi> ſaid, (<hi>Eccleſ.</hi> 7.2, 3.) <hi>Sorrow <hi>is better then</hi> Laughter; <hi>and it's better to go into the</hi> Houſe <hi>of</hi> Mourning <hi>then into the</hi> Houſe <hi>of</hi> Mirth: Mourning <hi>in the unregenerate, in the ſenſe of their Sins; is better then</hi> Laughter <hi>and</hi> Singing. <hi>And God will turn the</hi> Songs <hi>of the wick<g ref="char:EOLhyphen"/>ed into</hi> Mourning, <hi>Amos</hi>
+               </hi> 8.10. And Chriſt ſaid, <hi>Mat.</hi> 12.36. <hi>Every <hi>Idle Word</hi> that Men ſhall ſpeak, they ſhall give an account thereof in the day of Iudgment.</hi> And the Apoſtle <hi>Iames</hi> ſaith, <hi>Who among you ſeem to be Religious, and bridleth not his Tongue, but deceiveth his own Heart, this mans Religion is vain,</hi> James 1.26.</p>
+            <p>Obſerve that <hi>Nebuchadnezar,</hi> the Heathen King, and his company of Ido<g ref="char:EOLhyphen"/>laters had <hi>Muſick;</hi> (<hi>viz.</hi>) the Sound of the <hi>Cornet, Flute, Harp, Sacbut Pſaltery</hi> and <hi>Dulcimer,</hi> and all kinds of <hi>Muſick,</hi> when they Worſhipped the Golden Image that he had ſet up: Theſe were they which caſt the three Children into the fiery Furnace. This their <hi>Muſick</hi> and <hi>Rejoycing</hi> was Wicked and Ungodly.</p>
+            <p>Again, obſerve, the Apoſtle ſaid unto the true <hi>Chriſtians,</hi>
+               <note place="margin">
+                  <p>
+                     <hi>Bellerum</hi> conc. 6.3.13. &amp;c. ſaith, <hi>Holidays are in our A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> celebrated in a Diabolical manner, li<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> bachanals Devils, Feſtivals moſt Sins then commit<g ref="char:EOLhyphen"/>ted, moſt Feaſt Songs, Bowlings, Tavernings, Scurrilitys, Dances with Women, as Straw with Fire.</hi>
+                  </p>
+                  <p>As a f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r<g ref="char:EOLhyphen"/>ter teſtimo<g ref="char:EOLhyphen"/>ny againſt Debaunchery he cites.</p>
+                  <p>Neceph. lib. 19. Herodias <hi>her Daugh<g ref="char:EOLhyphen"/>ters Head danced upon the Ice.</hi> Ambros de virg l. 3. Jerom epiſt. 10.4. Chriſt hom. 56. on Mathew. 49. Baſil. on Drunk<g ref="char:EOLhyphen"/>neſs and Ri<g ref="char:EOLhyphen"/>ot.</p>
+                  <p>
+                     <hi>Cicero</hi> a Heathen <hi>pro<g ref="char:EOLhyphen"/>muraena</hi> ſays <hi>No Sober Man danc<g ref="char:EOLhyphen"/>eth,</hi> and ob<g ref="char:EOLhyphen"/>jects it as a Crime to <hi>Amenius</hi> 6.</p>
+               </note> 
+               <hi>Be ye not drunk with <hi>Wine,</hi> wherein is Exceſs, but be filled with the Spirit; ſpeaking to your ſelves in <hi>Pſalms, Hymns,</hi> and <hi>Spiritual Songs,</hi> Singing and making Melody in your Hearts to the Lord,</hi> Epheſ. 5.19.</p>
+            <p>Alſo <hi>Swearing</hi> &amp; calling upon <hi>God to Damn them,</hi> and <hi>Blaſpheming</hi> the pure, holy and undefiled <hi>Name of God,</hi> proceeds even from the ſame Root that <hi>Gaming, Muſick, Singing</hi> and <hi>Dancing</hi> do ariſe and ſpring from: Therefore let none who are found in any of thoſe things, (to wit, in <hi>Swear<g ref="char:EOLhyphen"/>ing, Damning Curſing</hi> &amp; <hi>Blaſpheming the Name of the Lord</hi>) think to eſcape Gods Righteous Judgments; for it is written, <hi>The Lord will not hold him guiltleſs that taketh his <hi>Name in Vain.</hi>
+               </hi> And the Lord complains by the Prophet <hi>Jeremi<g ref="char:EOLhyphen"/>ah, Becauſe of <hi>Swearing</hi> the Land <hi>Mourneth,</hi>
+               </hi> Jer. 23.10.</p>
+            <p>Therefore all you that are concerned, as Witneſſes for God, ſee that you bear your Teſtimonies againſt theſe things, that the Lord may bleſs you and proſper you in all your <hi>Undertakings,</hi> that the <hi>Praiſe</hi> and <hi>Honour,</hi> which is his due, he may receive from you, and you from him a <hi>Crown of Glory,</hi> which fadeth not away when time here ſhall be no more.</p>
+            <closer>
+               <signed>John Kelſall.</signed>
+            </closer>
+         </div>
+         <div type="proclamation">
+            <head>In the Kings Proclamation againſt Vicious, Debauched and Prophane Perſons, <hi>&amp;c.</hi> dated <hi>May</hi> the 30th 1660. in the Twelvth Year of his Reign; are theſe Remarkable Paſ<g ref="char:EOLhyphen"/>ſages following.</head>
+            <p>
+               <q>
+                  <hi>THere is a ſort of Men</hi> of whom we are ſufficiently <hi>aſhamed,</hi> who ſpend their time in <hi>Tavernes, Tippleing-houſes and Debauchees,</hi> giving no other E<g ref="char:EOLhyphen"/>vidence of their affection to us, but in <hi>Drinking our Health,</hi> and <hi>inveighing againſt all others</hi> who are not of their own <hi>diſſolute temper,</hi> and who in Truth have <hi>more diſcredited our Cauſe,</hi> by the <hi>licenſe</hi> of their <hi>Manners</hi> and <hi>Lives,</hi> then they could ever <hi>advance</hi> it by their <hi>Affection</hi> and <hi>Courage.</hi>—We reaſonably hope theſe Men will cordially renounce all that <hi>Licenciouſneſs, Profaneneſs</hi> and <hi>Impiety</hi> with which they have been <hi>corrupted,</hi> and <hi>endeavoured to corrupt others;</hi> and that they will hereafter become Examples of <hi>Sobriety</hi> and <hi>Vertue.</hi>—We will not exerciſe <hi>juſt ſeverity</hi> againſt <hi>any Malefactors,</hi> ſooner then againſt <hi>Men of Diſſolute, Debauched</hi> and <hi>Prophane Lives,</hi> with what parts ſoever they may be otherwayes qualified and endowed.—And We hope all Perſons of Honour, or in Place and Authority, will ſo far aſſiſt Us in diſcountenancing ſuch Men, that their <hi>Diſcretion</hi> and <hi>Shame</hi> will perſwade them to reform what their <hi>Conſciences would not.</hi>—Which may by the Example and Severity of <hi>Vertuous</hi> Men be eaſily diſcountenanced, and by degrees ſuppreſſed.</q>
+            </p>
+            <p>
+               <q>However for the more effectual reforming <hi>theſe Men,</hi> who are a <hi>diſcredit to the Na<g ref="char:EOLhyphen"/>tion,</hi> and unto <hi>any Cauſe</hi> they pretend to favour and to wiſh well to. We require all Mayors, and Sheriffs, and Juſtices of the Peace, to be very <hi>vigilent</hi> and <hi>ſtrict</hi> in the <hi>diſcovery</hi> and <hi>proſecution</hi> of all <hi>Diſſolute</hi> and <hi>Prophane Swearing</hi> and <hi>Curſing.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>THis <hi>was</hi> Re-inforced <hi>by a ſecond Proclamation of the King, the 13th of</hi>
+               </hi> Auguſt, <hi>1660. charging all Miniſters to read it once each Month, for ſix Months enſuing, &amp; <hi>Stir Vp</hi> their <hi>Auditors</hi> to obſerve the ſaid <hi>Duties,</hi> and avoid the ſaid <hi>Vices.</hi>
+               </hi>
+            </p>
+         </div>
+         <div type="epigraph">
+            <q>LEt all conſider <hi>Iſrael</hi> of old,<note place="margin">
+                  <hi>Mat. 5.9.</hi> But he that ſhall Blaſ<g ref="char:EOLhyphen"/>pheme is in danger of e<g ref="char:EOLhyphen"/>ter<gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> nation.</note> who when they forgot God (who had wrought mighty Deliverance for them) how they ran in Feaſting Dancing, &amp; Idolatry; as it is written, <hi>They ſate down to Eat and Drink and roſe up to play, and danced about the Golden Calf which they had ſet up.</hi> But it was a diſmal dance unto them; for ſeveral Thouſands of them were deſtroyed in one day, 
+<bibl>
+                  <hi>Ex. 32.6, 19, 27.</hi>
+               </bibl>
+            </q>
+            <q>And everyone that Sweareth ſhall be cut off, &amp;c. 
+<bibl>
+                  <hi>Zach. 5.3.</hi>
+               </bibl>
+            </q>
+            <q>By Swearing, and Lying, and Killing, and Stealing, and committing Adultery, they break out, and Blood toucheth Blood, 
+<bibl>
+                  <hi>Hoſea 4.2.</hi>
+               </bibl>
+            </q>
+            <q>If the Righteous ſcarcely ſhall be ſaved, where ſhall the Wicked and <g ref="char:V">Ʋ</g>ngodly appear? 
+<bibl>
+                  <hi>1 Pet. 4.18</hi>
+               </bibl>
+            </q>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Reprinted with Additions, by <hi>John Bringhurſt,</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
